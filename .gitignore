@@ -1,4 +1,6 @@
 venv/
+build/
 __pycache__
 *.pyc
+*.exe
 activity.log
